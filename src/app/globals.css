@@ -2,7 +2,8 @@
 
 @theme {
   /* Accent */
-  --color-accent: #fca311;
+  --color-iom-green: #3cb371;
+  --color-sienna: #cf6944;
 
   /* Text */
   --text-*: initial;
@@ -41,7 +42,7 @@
   --background-color-layout-primary-hover: var(--color-zinc-700);
   --background-color-layout-primary-contrast: var(--color-zinc-600);
 
-  --background-color-layout-secondary-active: var(--color-white);
-  --background-color-layout-secondary-hover: var(--color-zinc-50);
-  --background-color-layout-secondary-contrast: var(--color-zinc-50);
+  --background-color-layout-secondary-active: #eae5db;
+  --background-color-layout-secondary-hover: #e0d9cd;
+  --background-color-layout-secondary-contrast: #eae5db;
 }
